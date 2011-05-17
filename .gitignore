@@ -1,0 +1,7 @@
+.DS_Store
+Frameworks/Debug/AppKit/*
+Frameworks/Debug/Foundation/*
+Frameworks/Debug/Objective-J/*
+Frameworks/AppKit/*
+Frameworks/Foundation/*
+Frameworks/Objective-J/*
